@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\Two_Dimension_Assignment\Two_Dimension_Assignment\bin\Debug\Two_Dimension_Assignment.exe.config
+C:\Users\dell\source\repos\Two_Dimension_Assignment\Two_Dimension_Assignment\bin\Debug\Two_Dimension_Assignment.exe
+C:\Users\dell\source\repos\Two_Dimension_Assignment\Two_Dimension_Assignment\bin\Debug\Two_Dimension_Assignment.pdb
+C:\Users\dell\source\repos\Two_Dimension_Assignment\Two_Dimension_Assignment\obj\Debug\Two_Dimension_Assignment.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Two_Dimension_Assignment\Two_Dimension_Assignment\obj\Debug\Two_Dimension_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Two_Dimension_Assignment\Two_Dimension_Assignment\obj\Debug\Two_Dimension_Assignment.exe
+C:\Users\dell\source\repos\Two_Dimension_Assignment\Two_Dimension_Assignment\obj\Debug\Two_Dimension_Assignment.pdb
